@@ -28,7 +28,7 @@ async function postData() {
   try {
     // Make a GET request to the API
     const response = await axios.post(apiUrl, {
-      phone: '5511933776782',
+      phone: '2356886568685',
       full_name: 'Asaph Ferreira',
       first_name: 'Asaph',
       last_name: 'Ferreira'
